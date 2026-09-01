@@ -12,5 +12,6 @@ public class TrabalhandoComStrings {
         System.out.println("Olá " + nome.toLowerCase() + " seu nome tem " + tamanhoString + " caracteres");
         System.out.println("Os nomes são iguais : " + saoIguais);
         System.out.println("Nome completo: " + nomeCompleto);
+
     }
 }
