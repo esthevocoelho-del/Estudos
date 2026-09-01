@@ -1,23 +1,23 @@
 public class EstruturaifElse {
     public static void main(String[] args) {
 
-//        int idade = 10;
-//
-//        if (idade >=18) {
-//            System.out.println("Você é maior de idade!");
-//        }
-//        else {
-//            System.out.println("Você é menor de idade!");
-//        }
+        int idade = 10;
 
-//        boolean estaChovendo = false;
-//
-//        if (!estaChovendo) {
-//            System.out.println("Vamos sair para passear!");
-//        }
-//        else {
-//            System.out.println("Vamos ficar em casa!");
-//        }
+        if (idade >=18) {
+            System.out.println("Você é maior de idade!");
+        }
+        else {
+            System.out.println("Você é menor de idade!");
+        }
+
+        boolean estaChovendo = false;
+
+        if (!estaChovendo) {
+            System.out.println("Vamos sair para passear!");
+        }
+        else {
+            System.out.println("Vamos ficar em casa!");
+        }
 
         boolean temDinheiro = true;
         boolean temCartao = false;
